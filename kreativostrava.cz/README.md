@@ -2,7 +2,7 @@
 
 Site link: [kreativostrava.cz](http://kreativostrava.cz)
 
-Reported / Fixes
+Reported / Fixed
 - [ ] [Broken text in breadcrumbs](#bugs-broken-text-in-breadcrumbs)
 - [ ] [Duplicate menu items in mobile menu](#bugs-duplicate-menu-items-in-mobile-menu)
 - [ ] [Map overflowing on mobile](#bugs-map-overflowing-on-mobile)
@@ -32,3 +32,10 @@ Similar for the section "Program", there are two menu items "Program" and "Works
 ![Screenshot of second menu issue](./screenshots/IMG_8173.jpeg)
 
 ### Map overflowing on mobile
+
+**Url:** https://www.kreativostrava.cz/cz/aktuality/143-uzavirka-nabrezni-komunikace.html\
+**Device:** iPhone 13 / Safari
+
+The image of map on this page overflows the screen on mobile devices, causing horizontal scrolling.
+
+![Screenshot of map overflow issue](./screenshots/IMG_8171.jpg)
