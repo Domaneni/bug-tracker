@@ -11,4 +11,4 @@ Site link: [kreativostrava.cz](http://kreativostrava.cz)
 
 Instead of "Úvod" it shows "Ãšvod". This looks like a character encoding issue.
 
-![Screenshot of bug in breadcrumbs](./IMG_8059.jpeg)
+![Screenshot of bug in breadcrumbs](./screenshots/IMG_8059.jpeg)
