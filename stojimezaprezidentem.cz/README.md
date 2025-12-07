@@ -2,7 +2,7 @@
 
 Site link: [stojimezaprezidentem.cz](http://stojimezaprezidentem.cz)
 
-Reported / Fixes
+Reported / Fixed
 - [ ] [Logo missing a background color and it's unreadable on white](#logo-missing-a-background-color-and-its-unreadable-on-white)
 
 ## Bugs
