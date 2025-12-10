@@ -3,7 +3,7 @@
 Site link: [websupport.cz](http://websupport.cz)
 
 Reported / Fixed
-- [ ] [Administration for package change page is broken](#bugs-administration-for-package-change-page-is-broken)
+- [ ] [Administration for package change page is broken](#administration-for-package-change-page-is-broken)
  
 ## Bugs
 
