@@ -3,12 +3,12 @@
 Site link: [hlidacstatu.cz](http://hlidacstatu.cz)
 
 Reported / Fixed
-- [ ] [Salary boxes are unreadable / broken](#bugs-salary-boxes-are-unreadable--broken)
-- [ ] [Filter for salary list is broken](#bugs-filter-for-salary-list-is-broken)
-- [ ] [Institutions in the field is overlapping page width](#bugs-institutions-in-the-field-is-overlapping-page-width)
-- [ ] [Search button overlapping in header](#bugs-search-button-overlapping-in-header)
-- [ ] [Homepage video out of box](#bugs-homepage-video-out-of-box)
-- [ ] [Logos overlapping texts](#bugs-logos-overlapping-texts)
+- [ ] [Salary boxes are unreadable / broken](#salary-boxes-are-unreadable--broken)
+- [ ] [Filter for salary list is broken](#filter-for-salary-list-is-broken)
+- [ ] [Institutions in the field is overlapping page width](#institutions-in-the-field-is-overlapping-page-width)
+- [ ] [Search button overlapping in header](#search-button-overlapping-in-header)
+- [ ] [Homepage video out of box](#homepage-video-out-of-box)
+- [ ] [Logos overlapping texts](#logos-overlapping-texts)
 
 ## Bugs
 
