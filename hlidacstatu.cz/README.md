@@ -6,7 +6,10 @@ Reported / Fixed
 - [ ] [Salary boxes are unreadable / broken](#bugs-salary-boxes-are-unreadable--broken)
 - [ ] [Filter for salary list is broken](#bugs-filter-for-salary-list-is-broken)
 - [ ] [Institutions in the field is overlapping page width](#bugs-institutions-in-the-field-is-overlapping-page-width)
- 
+- [ ] [Search button overlapping in header](#bugs-search-button-overlapping-in-header)
+- [ ] [Homepage video out of box](#bugs-homepage-video-out-of-box)
+- [ ] [Logos overlapping texts](#bugs-logos-overlapping-texts)
+
 ## Bugs
 
 ### Salary boxes are unreadable / broken
@@ -38,7 +41,7 @@ Table is overlapping the page width. Maybe scrollable by X axis would help.
 
 ![Screenshot of bug in admin](./screenshots/IMG_8204.png)
 
-### Institutions in the field is overlapping page width
+### Search button overlapping in header
 
 **Url:** https://texty.hlidacstatu.cz/kontakt/ / https://texty.hlidacstatu.cz/kodex/ \
 **Device:** iPhone 13 / Safari
@@ -46,3 +49,22 @@ Table is overlapping the page width. Maybe scrollable by X axis would help.
 Multiple pages have overlapping search button in header.
 
 ![Screenshot of bug in admin](./screenshots/IMG_8205.png)
+
+### Homepage video out of box
+
+**Url:** https://www.hlidacstatu.cz/ \
+**Device:** iPhone 13 / Safari
+
+Youtube video on homepage is out of the box on mobile devices.
+
+![Screenshot of bug in youtube video](./screenshots/IMG_8209.jpg)
+
+### Logos overlapping texts
+
+**Url:** https://texty.hlidacstatu.cz/pro-media/ \
+**Device:** iPhone 13 / Safari
+
+Images are overlapping texts in multiple places. Maybe you can put the image to separate row
+so it has full width for display.
+
+![Screenshot of bug in logos](./screenshots/IMG_8210.jpg)
