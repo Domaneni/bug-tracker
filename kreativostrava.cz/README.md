@@ -3,9 +3,9 @@
 Site link: [kreativostrava.cz](http://kreativostrava.cz)
 
 Reported / Fixed
-- [ ] [Broken text in breadcrumbs](#bugs-broken-text-in-breadcrumbs)
-- [ ] [Duplicate menu items in mobile menu](#bugs-duplicate-menu-items-in-mobile-menu)
-- [ ] [Map overflowing on mobile](#bugs-map-overflowing-on-mobile)
+- [ ] [Broken text in breadcrumbs](#broken-text-in-breadcrumbs)
+- [ ] [Duplicate menu items in mobile menu](#duplicate-menu-items-in-mobile-menu)
+- [ ] [Map overflowing on mobile](#map-overflowing-on-mobile)
 
 ## Bugs
 
